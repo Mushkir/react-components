@@ -17,7 +17,11 @@ const TheNavBar = () => {
             <Link to={"/"}>Home</Link>
           </li>
         </ul>
-        <Link to={""} className="bg-[#F4DFC8] flex items-center gap-x-1 px-5 py-2 rounded-md text-xl hover:bg-[#dbc8b4] hover:font-semibold hover:transition 500">
+        <Link
+          to={"https://github.com/Mushkir/react-components"}
+          target="_blank"
+          className="bg-[#F4DFC8] flex items-center gap-x-1 px-5 py-2 rounded-md text-xl hover:bg-[#dbc8b4] hover:font-semibold hover:transition 500"
+        >
           <div>
             <svg
               xmlns="http://www.w3.org/2000/svg"

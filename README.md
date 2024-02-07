@@ -1,8 +1,62 @@
-# React + Vite
+# Cyberdude Challenges - React Js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Task 04: Create React Components Page
 
-Currently, two official plugins are available:
+Develop react re-usable components such as Button, Alert and Card and show it in UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Live link
+
+https://react-components-app-task.netlify.app
+
+## Technologies and Libraries Used and Learned
+
+| S.No | Technologies and Libraries Used                                          |
+| :--- | ------------------------------------------------------------------------ |
+| 01   | [React Js](https://www.youtube.com/live/Yc8JxiCdNQE?si=kTkPpKa5uqfLubpC) |
+
+### Screenshots
+
+[!Screenshot01](./screenshots/1.png)
+
+[!Screenshot02](./screenshots//2.png)
+
+[!Screenshot03](./screenshots//3.png)
+
+[!Screenshot04](./screenshots//4.png)
+
+## Installation
+
+- Clone the Repo into Local machine
+
+```bash
+  git clone https://github.com/Mushkir/react-components.git
+
+```
+
+- Open the terminal and enter following command
+
+```bash
+npm install
+```
+
+- If you are a Mac user try the following command
+
+```bash
+sudo npm install
+```
+
+- Enter the following command to Run
+
+```bash
+npm run dev
+```
+
+## Internship
+
+This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
+
+### License: MIT (Do whatever, you want!)
+
+### Acknowledgment:
+
+- [Anbuselvan Rocky](https://fb.me/anburocky3)
