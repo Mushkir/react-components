@@ -16,13 +16,13 @@ https://react-components-app-task.netlify.app
 
 ### Screenshots
 
-[!Screenshot01](./screenshots/1.png)
+![Screenshot01](./screenshots/1.png)
 
-[!Screenshot02](./screenshots//2.png)
+![Screenshot02](./screenshots//2.png)
 
-[!Screenshot03](./screenshots//3.png)
+![Screenshot03](./screenshots//3.png)
 
-[!Screenshot04](./screenshots//4.png)
+![Screenshot04](./screenshots//4.png)
 
 ## Installation
 
